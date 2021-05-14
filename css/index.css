@@ -1,0 +1,49 @@
+.nav-item {
+    font-family: 'Roboto', sans-serif;
+    color: #747474;
+}
+.display-4 {
+    display: flex;
+    align-items: center;
+    width: 700px;
+}
+.jumbotron-fluid {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.clientProblem {
+    padding-right: 40px;
+}
+img {
+    padding: 30px;
+    display: flex;
+}
+.flex-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.lead {
+    display: inline-flex;
+}
+h1 {
+    color:#85749A;
+}
+h2 {
+    font-family: 'Roboto Slab', serif;
+}
+.card-title {
+    font-family: 'Roboto Slab', serif;
+}
+.container {
+    Padding: 40px;
+}
+.finalProto {
+    display: flex;
+    Padding: 40px;
+}
+.product {
+    Padding: 40px;
+    border: 1px, solid, red;
+}
